@@ -6,7 +6,8 @@
       Creating a username can be tricky... 
 ![CreateAccountRed](https://user-images.githubusercontent.com/82112195/114214341-3023d000-9932-11eb-8bbd-06b34915e01d.png)
 
-      If you get the red box telling you to try again, don't be discouraged. Pick a more creative name and try again! Eventually you'll get green for GO!
+      If you get the red box telling you to try again, don't be discouraged. Pick a more creative name and try again! 
+                                          Eventually you'll get green for GO!
       
  ![CreateAccountGreen](https://user-images.githubusercontent.com/82112195/114214398-45006380-9932-11eb-9ac9-a80fa373dd1f.png)
 
@@ -15,8 +16,7 @@
 
       
       ***The "Create Account" will be grayed out until all information if entered. Once information is entered, the "Create Account" will turn bold blue.***
-![Create Account Gray](https://user-images.githubusercontent.com/82112195/114213151-a6bfce00-9930-11eb-986b-0324807e491f.png)
-                                                            vs.
+![Create Account Gray](https://user-images.githubusercontent.com/82112195/114213151-a6bfce00-9930-11eb-986b-0324807e491f.png)vs.
 ![CABoldBlue](https://user-images.githubusercontent.com/82112195/114214519-65302280-9932-11eb-8f9c-869f7007e407.png)
 
 
