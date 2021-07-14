@@ -1,5 +1,5 @@
 # So you wanna make a webpage...Check out mine [HERE](https://jennifer-nc.github.io/)      
-      As a new programmer, the best first step is creating a personal webpage to introduce yourself and showcase your work.
+      As a new programmer, creating a personal webpage to introduce yourself and showcase your work.
           Here, I walkthrough the basic steps of creating a GitHub profile and setting up your personal webpage... .        
           
 ## Step One: Create a username on [GitHub](https://github.com/join?ref_cta=Sign+up). 
